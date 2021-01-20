@@ -1,0 +1,8 @@
+{
+    "minVersion": "0.8",
+    "refmap": "mixins.guard-camera.refmap.json",
+    "package": "rmc.mixins.guard_camera",
+    "mixins": [
+        "MessageResizeFrameMixin"
+    ]
+}
